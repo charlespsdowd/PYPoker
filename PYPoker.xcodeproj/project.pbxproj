@@ -11,6 +11,7 @@
 		6166C49716914CCE007777FD /* mygames.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mygames.py; sourceTree = "<group>"; };
 		6166C49816915582007777FD /* __init__.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = __init__.py; sourceTree = "<group>"; };
 		6166C499169227B8007777FD /* tictactoe.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tictactoe.py; sourceTree = "<group>"; };
+		6166C49A16928DCF007777FD /* playttt.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = playttt.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +20,7 @@
 			children = (
 				6166C49616914A29007777FD /* mypoker.py */,
 				6166C499169227B8007777FD /* tictactoe.py */,
+				6166C49A16928DCF007777FD /* playttt.py */,
 				6166C49816915582007777FD /* __init__.py */,
 				6166C49716914CCE007777FD /* mygames.py */,
 			);
